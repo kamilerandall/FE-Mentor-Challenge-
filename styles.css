@@ -108,9 +108,7 @@ button:hover {
         align-items: center;
         justify-content: center;
     }
-    .section-img {
-        order: -1;
-    }
+   
     .section-content {
         padding: 30px 10px;
         order: 1;
